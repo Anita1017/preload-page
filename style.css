@@ -33,7 +33,7 @@ body{
 
 .loader{
   position: absolute;
-  z-index: ;
+  z-index:2 ;
   top:82px;
   left: 82px;
   width: 116px;
